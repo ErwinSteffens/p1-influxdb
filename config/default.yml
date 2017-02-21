@@ -1,0 +1,9 @@
+p1:
+  port: '/dev/ttyUSB0'
+  baudRate: 115200
+  debug: false
+influxdb:
+  host: influxdb
+  database: home
+  username: 
+  password: 

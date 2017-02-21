@@ -1,0 +1,8 @@
+{
+    "append": true,
+    "watch": true,
+    "script": "index.js",
+    "watchDirectory": "/home/pi/p1-influxdb",
+    "workingDir": "/home/pi/p1-influxdb",
+    "sourceDir": "/home/pi/p1-influxdb"
+}
